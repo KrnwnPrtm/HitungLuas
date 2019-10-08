@@ -1,4 +1,4 @@
-public class Segitiga {
+public class Segitiga extends  BangunDatar{
     private double tinggi;
     private double alas;
 

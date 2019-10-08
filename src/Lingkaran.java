@@ -1,4 +1,4 @@
-public class Lingkaran {
+public class Lingkaran extends BangunDatar {
     private static final double phi = 3.14;
     private double jari2;
 
