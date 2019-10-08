@@ -10,12 +10,13 @@ public class Segitiga extends  BangunDatar{
     }
 
     public void hitungLuas(){
-        //isi method ini
-
+        double luas = (this.alas*this.tinggi)/2;
+        setLuas(luas);
     }
 
     public void hitungKeliling(){
-        //Isi method ini
+        double keliling = this.alas + this.tinggi + 1;
+        setKeliling(keliling);
 
     }
 }
